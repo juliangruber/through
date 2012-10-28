@@ -3,9 +3,17 @@
   "repo": "juliangruber/through",
   "description": "simplified stream contruction",
   "version": "1.1.0",
-  "keywords": ["stream", "streams", "user-streams", "pipe"],
+  "keywords": [
+    "stream",
+    "streams",
+    "user-streams",
+    "pipe"
+  ],
   "dependencies": {
     "juliangruber/stream": "*"
   },
-  "scripts": ["index.js"]
+  "scripts": [
+    "index.js"
+  ],
+  "license": "MIT"
 }
